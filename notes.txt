@@ -1,0 +1,19 @@
+<html>
+<body>
+<h1>War against terror</h1>
+<h2>War against terror</h2>
+<h3>War against terror</h3>
+</body>
+</html>
+
+ c:\users\vaibh\appdata\local\pip\cache\wheels\0b\1e\d7\0c74bd8f60b39c14d84e307398786002aa7ddc905927cc03c5
+
+
+C:\Program Files (x86)\Windows Kits\10\
+
+C:\Program Files\Arduino IDE
+
+
+https://www.programsbuzz.com/article/install-inspect-exe-windows-10
+
+all links
